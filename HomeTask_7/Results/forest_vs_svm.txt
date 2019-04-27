@@ -1,4 +1,3 @@
-# forest with "gini"
   # cancer
   # Accuracy: 94 %. 
   # Forest time: 0.103 sec
@@ -10,16 +9,3 @@
   # Forest time: 0.370 sec
   # Accuracy: 94.0 %.
   # SVM time: 202.879 sec
-
-#forest with "entropy"
-  # cancer
-  # Accuracy: 95 %.
-  # Forest time: 0.103 sec
-  # Accuracy: 88.0 %.
-  # SVM time: 0.003 sec
-
-  # spam
-  # Accuracy: 94 %.
-  # Forest time: 0.500 sec
-  # Accuracy: 92 %.
-  # SVM time: 442.464 sec
