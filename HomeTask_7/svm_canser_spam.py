@@ -85,15 +85,3 @@ if __name__ == '__main__':
 # Forest time: 0.370 sec
 # Accuracy: 94.0 %.
 # SVM time: 202.879 sec
-
-# cancer
-# Accuracy: 95.0 %.
-# Forest time: 0.103 sec
-# Accuracy: 88.0 %.
-# SVM time: 0.003 sec
-
-# spam
-# Accuracy: 94.0 %.
-# Forest time: 0.500 sec
-# Accuracy: 92.0 %.
-# SVM time: 442.464 sec
